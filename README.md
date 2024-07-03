@@ -30,7 +30,7 @@ The binary file is structured as follows:
   - 256 bytes for `author`
   - 256 bytes for `category`
 
-I suppose the `int` type has a size of 4 bytes and `char` type has a size of 1 byte.
+I suppose the `int` type has a size of 4 bytes and the `char` type has a size of 1 byte.
 
 ## How to compile
 
