@@ -26,10 +26,11 @@ The binary file is structured as follows:
 - 4 bytes for `book_count`
 - 256 bytes for `library_name`
 - 768 bytes for every book
-
   - 256 bytes for `title`
   - 256 bytes for `author`
   - 256 bytes for `category`
+
+I suppose the `int` type has a size of 4 bytes and `char` type has a size of 1 byte.
 
 ## How to compile
 
