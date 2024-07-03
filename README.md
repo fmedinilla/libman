@@ -1,4 +1,4 @@
-# Library manager
+# Libman
 
 Console application for Library manager writen in C. It can store books with a title, an author and a category.
 
